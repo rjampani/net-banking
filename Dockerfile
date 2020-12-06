@@ -1,5 +1,5 @@
 FROM openjdk:8-jre-alpine
-RUN apk add -no-cache curl
+RUN apk --no-cache add curl
 RUN mkdir -p /app
 RUN addgroup -S netbanking && adduser -S netbanking -G netbanking
 USER netbanking:netbanking
