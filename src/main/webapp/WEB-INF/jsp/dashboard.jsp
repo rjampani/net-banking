@@ -7,6 +7,6 @@
 		<title>NetBanking Dashboard</title>
 	</head>
 	<body>
-		<h1>Welcome to NetBanking Dashboard!(V1.0)</h1>
+		<h1>Welcome to NetBanking Dashboard!(V2.0)</h1>
 	</body>
 </html>
